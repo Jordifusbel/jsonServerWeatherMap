@@ -1,0 +1,33 @@
+{
+    "cities": {
+      "Palma": {
+        "id": 2512989,
+        "maxTemp": 35,
+        "minTemp": 11,
+        "weather": "clear"
+        },
+        "Sa Pobla": {
+        "id": 6533965,
+        "maxTemp": 28,
+        "minTemp": 3,
+        "weather": "clouds"
+        },
+        "Alcudia": {
+        "id": 6544075,
+        "maxTemp": 21,
+        "minTemp": 1,
+        "weather": "rain"
+        },
+        "Llucmajor": {
+        "id": 6533952,
+        "maxTemp": 22,
+        "minTemp": 2,
+        "weather": "rain"
+        },
+        "Inca": {
+        "id": 6533948,
+        "maxTemp": 27,
+        "minTemp": 8,
+        "weather": "clouds"
+        }
+}
